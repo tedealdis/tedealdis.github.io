@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tedealdis.github.io/tedealdis.txt.gz
+Sitemap: https://tedealdis.github.io/app/tedealdis.txt.gz
+Sitemap: https://tedealdis.github.io/assets/tedealdis.txt.gz
+Sitemap: https://tedealdis.github.io/css/tedealdis.txt.gz
+Sitemap: https://tedealdis.github.io/includes/tedealdis.txt.gz
+Sitemap: https://tedealdis.github.io/item/tedealdis.txt.gz
+Sitemap: https://tedealdis.github.io/src/tedealdis.txt.gz
